@@ -66,6 +66,15 @@
     margin: 30px auto;
     padding-left:30px;
 }
+.Pink{
+    box-sizing:border-box;
+    border: 1px solid black;
+    padding: 20px;
+    width: 1500px;
+    height: 700px;
+    margin: 30px auto;
+    padding-left:30px;
+}
 h1,h2{
     text-align: center;
 }
@@ -547,15 +556,9 @@ body{
 #pu-s-0{
     background-color:hsl(260, 0%, 50%);
 }
-.Pink{
-    box-sizing:border-box;
-    border: 1px solid black;
-    padding: 20px;
-    width: 1500px;
-    height: 700px;
-    margin: 30px auto;
-    padding-left:30px;
-}
+
+
+
 #pi-l-100{
     background-color:hsl(300, 100%, 100%);
 }
