@@ -547,3 +547,76 @@ body{
 #pu-s-0{
     background-color:hsl(260, 0%, 50%);
 }
+.Pink{
+    box-sizing:border-box;
+    border: 1px solid black;
+    padding: 20px;
+    width: 1500px;
+    height: 700px;
+    margin: 30px auto;
+    padding-left:30px;
+}
+#pi-l-100{
+    background-color:hsl(300, 100%, 100%);
+}
+#pi-l-90{
+    background-color:hsl(300, 100%, 90%);
+}
+#pi-l-80{
+    background-color:hsl(300, 100%, 80%);
+}
+#pi-l-70{
+    background-color:hsl(300, 100%, 70%);
+}
+#pi-l-60{
+    background-color:hsl(300, 100%, 60%);
+}
+#pi-l-50{
+    background-color:hsl(300, 100%, 50%);
+}
+#pi-l-40{
+    background-color:hsl(300, 100%, 40%);
+}
+#pi-l-30{
+    background-color:hsl(300, 100%, 30%);
+}
+#pi-l-20{
+    background-color:hsl(300, 100%, 20%);
+}
+#pi-l-10{
+    background-color:hsl(300, 100%, 10%);
+}
+
+#pi-s-100{
+    background-color:hsl(300, 0%, 50%);
+}
+#pi-s-90{
+    background-color:hsl(300, 10%, 50%);
+}
+#pi-s-80{
+    background-color:hsl(300, 20%, 50%);
+}
+#pi-s-70{
+    background-color:hsl(300, 30%, 50%);
+}
+#pi-s-60{
+    background-color:hsl(300, 40%, 50%);
+}
+#pi-s-50{
+    background-color:hsl(300, 50%, 50%);
+}
+#pi-s-40{
+    background-color:hsl(300, 60%, 50%);
+}
+#pi-s-30{
+    background-color:hsl(300, 70%, 50%);
+}
+#pi-s-20{
+    background-color:hsl(300, 80%, 50%);
+}
+#pi-s-10{
+    background-color:hsl(300, 90%, 50%);
+}
+#pi-s-0{
+    background-color:hsl(300, 0%, 50%);
+}
